@@ -1,3 +1,12 @@
+
+
+
+new version in [https://github.com/NLPchina/elasticsearch-analysis-ansj](https://github.com/NLPchina/elasticsearch-analysis-ansj)
+
+
+这个插件已经不再更新新版本访问上面地址获得
+
+
 elasticsearch-ansj-analysis-plugin
 ==================================
 
